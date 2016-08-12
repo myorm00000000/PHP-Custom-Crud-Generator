@@ -16,10 +16,24 @@
 </head>
 
 <body>
+	<div class="nav navbar-nav">
+		<ul class="inline-block">
+			<li><a href="#">Home</a></li>
+			<li><a href="#">Videos</a></li>
+			<li><a href="#">Tutorials</a></li>
+			<li><a href="#">Torrents</a></li>
+			<li><a href="#">Sessions</a></li>
+			<li><a href="#">Movies</a></li>
+		</ul>
+	</div>
 	<form method="post" enctype="multipart/form-data">
 		<input type="file" name="zip">
 		<input type="submit" name="command" value="Upload">
 	</form>
+	<div class="text-center">
+		<div class="file_open">
+			To Open a File!
+		</div>
+	</div>
 </body>
-
 </html>
