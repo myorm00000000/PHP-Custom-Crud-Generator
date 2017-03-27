@@ -1,7 +1,9 @@
-# ZipFileImageUploader
+# PHP Custom CRUD Generator
 
-Zip File Image Uploader class can uploaded images which includes in zip file on to the server and save them into the database. Also it will rename pictures.
+This project is under development mode. We are going to create a custom system for you through which you can easily create your projects. Yes! Now using Graphical User Interface in browser you can create simple project and can easily create CRUD system for your projects.
 
-The class can be easily implemented in any project with uploading images and store their names into database. It will work efficiently. It can also fetch images from database and return in the form of array.
+Currently Working On:
 
-In this version it only supports zip file. Later on we will add more features into it.
+  - Create Config File For Project and User Interface to create Config File
+  - Create System to copy files in your new project
+  - Create CRUD System for the application
